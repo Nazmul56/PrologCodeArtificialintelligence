@@ -1,1 +1,0 @@
-daughter(a,c).
